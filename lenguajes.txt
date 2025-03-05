@@ -2,3 +2,5 @@ java
 c++
 cobol
 Fortran
+maquina
+Visual Basic
